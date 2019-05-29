@@ -8,17 +8,17 @@
     <parent>
         <groupId>com.ijson.common</groupId>
         <artifactId>ijson-parent-pom</artifactId>
-        <version>1.0.2</version>
+        <version>1.0.3</version>
     </parent>
 
-    <groupId>com.facishare</groupId>
-    <artifactId>fs-smile</artifactId>
+    <groupId>com.ijson</groupId>
+    <artifactId>in-smile</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0-SNAPSHOT</version>
     <modules>
-        <module>fs-smaile-core</module>
-        <module>fs-smaile-biz</module>
-        <module>fs-smaile-common</module>
+        <module>in-smaile-core</module>
+        <module>in-smaile-biz</module>
+        <module>in-smaile-common</module>
     </modules>
 
     <build>
